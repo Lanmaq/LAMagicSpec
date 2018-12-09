@@ -3,7 +3,7 @@ Pod::Spec.new do |s|
 
   s.name         = "UIView+LAPointInside"
   s.version      = "1.0.0"
-  s.summary      = "Expand UIView respond event area."
+  s.summary      = "Expand UIView respond event area！"
   s.description  = <<-DESC
   				         Expand UIView respond event area, use UIView pointInside:withEvent: method.
                    DESC
